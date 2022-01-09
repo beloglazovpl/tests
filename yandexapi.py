@@ -1,7 +1,7 @@
 import requests
 
 
-token_yd = 'AQAAAAAFE9JKAADLW7TXSY42c0hxkWbi60UwKsE'
+token_yd = '...'
 url = 'https://cloud-api.yandex.net/v1/disk/resources/'
 headers = {
             'Content-Type': 'application/json',
